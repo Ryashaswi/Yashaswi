@@ -1,1 +1,1 @@
-# Yashaswi
+Lead scoring Case study
